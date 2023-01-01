@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api test",
+  "main": "index.js",
+  "author": "irfan hulwani",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
